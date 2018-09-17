@@ -1,1 +1,3 @@
 bu bir deneme dosyasıdır
+
+buraya bir takım eklemeler yaptık
