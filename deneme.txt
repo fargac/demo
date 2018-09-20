@@ -1,7 +1,8 @@
 bu bir deneme dosyasıdır
 
 ek satir
-burada bir değişiklik yapıyorum. merge conflict oluşacak.
+
+burada bir değişiklik yapıyorum. merge conflict oluşacak. CONFLICT!!!!
 buraya bir takım eklemeler yaptık
 
 son bir satir daha
