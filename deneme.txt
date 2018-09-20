@@ -1,5 +1,5 @@
 bu bir deneme dosyasıdır
-
+deneme satiri
 ek satir
 
 burada bir değişiklik yapıyorum. merge conflict oluşacak. CONFLICT!!!!
