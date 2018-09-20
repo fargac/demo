@@ -1,6 +1,7 @@
 bu bir deneme dosyasıdır
 
 ek satir
+CONFLICT!!!!
 buraya bir takım eklemeler yaptık
 
 son bir satir daha
