@@ -5,5 +5,5 @@ burada bir değişiklik yapıyorum. merge conflict oluşacak.
 buraya bir takım eklemeler yaptık
 
 son bir satir daha
-
+EK DEGISIKLIK
 değişiklik
